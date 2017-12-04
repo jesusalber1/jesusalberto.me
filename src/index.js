@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Chat from './Chat';
-import registerServiceWorker from './registerServiceWorker';
 
 const data = {
   intro: {
@@ -31,7 +30,7 @@ const data = {
           `👶🏻 Born in Vigo 🇪🇸`,
           `👦🏻 23 years old`,
           `📍 Currently living in Rennes 🇫🇷`,
-          `📡 MSc Telecommunications Engineering Student`
+          `📡 Double-degree student in Telecommunications`
         ]
       ]
     },
@@ -43,10 +42,11 @@ const data = {
       ],
       answer: [
         [
-          `🎓 Master’s Degree, Computer Networks`,
+          `🎓 Diplôme d'ingénieur, Telecommunications`,
           `⏳ Sep '16 - Present`,
           `🏛 IMT Atlantique (ex. Télécom Bretagne)`,
-          `📍 Rennes 🇫🇷`
+          `📍 Rennes 🇫🇷`,
+          `📝 Double-degree program`
         ],
         [
           `🎓 Master’s Degree, Telecommunications`,
@@ -117,4 +117,3 @@ const data = {
 }
 
 ReactDOM.render(<Chat time={new Date()} me='J' visitor='V' steps={data}/>, document.getElementById('root'));
-registerServiceWorker();
