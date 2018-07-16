@@ -28,8 +28,8 @@ const data = {
         [
           `My name is Jesús Alberto Polo`,
           `👶🏻 Born in Vigo 🇪🇸`,
-          `👦🏻 23 years old`,
-          `📍 Currently living in Rennes 🇫🇷`,
+          `👦🏻 24 years old`,
+          `📍 Currently living in Paris 🇫🇷`,
           `📡 Double-degree student in Telecommunications`
         ]
       ]
@@ -71,8 +71,14 @@ const data = {
       ],
       answer: [
         [
+          `👨🏻‍💻 R&D Intern`,
+          `⏳ Mar - Sep '18`,
+          `🏭 Orange`,
+          `📍 Paris 🇫🇷`
+        ],
+        [
           `👨🏻‍💻 Full-Stack web developer`,
-          `⏳ Jul - Sep '17 | Feb - Apr '16`,
+          `⏳ Jul - Sep '17 and Feb - Apr '16`,
           `🏭 Clover Technologies`,
           `📍 Madrid 🇪🇸`
         ],
@@ -87,6 +93,11 @@ const data = {
           `⏳ May '14 - Sep '15`,
           `🏭 Evalues Laboratory (Universidad Carlos III de Madrid)`,
           `📍 Madrid 🇪🇸`
+        ],
+        [
+          `👨🏻‍💻 Technical Manager (side projects)`,
+          `🖥 https://polikracia.com`,
+          `🖥 https://okasesores.es`
         ]
       ]
     },
