@@ -29,7 +29,7 @@ const data = {
           `My name is Jesús Alberto Polo`,
           `👶🏻 Born in Vigo 🇪🇸`,
           `👦🏻 24 years old`,
-          `📍 Currently living in Paris 🇫🇷`,
+          `📍 Currently living in Madrid 🇪🇸`,
           `📡 Double-degree student in Telecommunications`
         ]
       ]
@@ -42,17 +42,17 @@ const data = {
       ],
       answer: [
         [
-          `🎓 Diplôme d'ingénieur, Telecommunications`,
-          `⏳ Sep '16 - Present`,
-          `🏛 IMT Atlantique (ex. Télécom Bretagne)`,
-          `📍 Rennes 🇫🇷`,
-          `📝 Double-degree program`
-        ],
-        [
           `🎓 Master’s Degree, Telecommunications`,
           `⏳ Sep '17 - Present`,
           `🏛 Universidad Carlos III de Madrid`,
           `📍 Madrid 🇪🇸`,
+          `📝 Double-degree program`
+        ],
+        [
+          `🎓 Diplôme d'ingénieur, Telecommunications`,
+          `⏳ Sep '16 - Present`,
+          `🏛 IMT Atlantique (ex. Télécom Bretagne)`,
+          `📍 Rennes 🇫🇷`,
           `📝 Double-degree program`
         ],
         [
@@ -97,7 +97,7 @@ const data = {
         [
           `👨🏻‍💻 Technical Manager (side projects)`,
           `🖥 https://polikracia.com`,
-          `🖥 https://okasesores.es`
+          `🖥 https://colors.jesusalberto.me`
         ]
       ]
     },
