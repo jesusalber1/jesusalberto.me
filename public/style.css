@@ -564,8 +564,7 @@ time {
 
 .action {
   -ms-flex-item-align: flex-end;
-      align-self: flex-end;
-  margin-left: 5rem;
+  align-self: flex-end;
 }
 
 img {
