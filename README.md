@@ -1,2 +1,2 @@
 # jesusalberto.me
-Personal website built with ReactJS.
+Personal website, pretending to be a chatbot 🤖.
