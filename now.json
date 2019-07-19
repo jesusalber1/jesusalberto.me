@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "name": "Jesus-Alberto-website",
+    "public": true,
+    "builds": [
+        { "src": "package.json", "use": "@now/static-build", "config": { "distDir": "build" } }
+    ],
+    "routes": [
+      { "src": "/static/(.*)", "headers": { "cache-control": "s-maxage=31536000,immutable" }, "dest": "/static/$1" },
+      { "src": "/favicon.ico", "dest": "/favicon.ico" },
+      { "src": "/JesusAlbertoPolo.pdf", "dest": "/JesusAlbertoPolo.pdf" },
+      { "src": "/resume.png", "dest": "/resume.png" },
+      { "src": "/(.*)", "headers": {"cache-control": "s-maxage=0"}, "dest": "/index.html" }
+    ]
+}
