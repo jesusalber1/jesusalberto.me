@@ -8,7 +8,7 @@ const data = {
     isMine: true, // I send the message (false means that visitor sends it)
     messages: [
       [`Hi there 👋`, `I'm Jesús Alberto and this is my personal chatbot 🤖`],
-      [`I'm glad to see you here 😃`, `Tell me, what would you know about me? 🤔`],
+      [`I'm glad to see you here 😃`, `Tell me, what would you like to know about me? 🤔`],
     ]
   },/*
   askName: {
