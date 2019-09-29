@@ -28,7 +28,7 @@ const data = {
         [
           `My name is Jesús Alberto Polo`,
           `👶🏻 Born in Vigo 🇪🇸`,
-          `👦🏻 24 years old`,
+          `👦🏻 25 years old`,
           `📍 Currently living in Paris 🇫🇷`,
           `📡 Double-degree student in Telecommunications`
         ]
