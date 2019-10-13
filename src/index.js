@@ -30,7 +30,7 @@ const data = {
           `👶🏻 Born in Vigo 🇪🇸`,
           `👦🏻 25 years old`,
           `📍 Currently living in Paris 🇫🇷`,
-          `📡 Double-degree student in Telecommunications`
+          `📡 Telecommunications Engineer`
         ]
       ]
     },
@@ -70,6 +70,12 @@ const data = {
         [`Your experience 👨🏻‍💻`]
       ],
       answer: [
+        [
+          `👨🏻‍💻 Software Engineer`,
+          `⏳ Oct '19 - Present`,
+          `🏭 Criteo`,
+          `📍 Paris 🇫🇷`
+        ],
         [
           `👨🏻‍💻 R&D Intern`,
           `⏳ Mar - Sep '18`,
