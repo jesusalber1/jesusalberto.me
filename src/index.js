@@ -103,7 +103,7 @@ const data = {
         [
           `👨🏻‍💻 Technical Manager (side projects)`,
           `🖥 https://polikracia.com`,
-          `🖥 https://colors.jesusalberto.me`
+          `🖥 https://focus.jesusalberto.me`
         ]
       ]
     },
