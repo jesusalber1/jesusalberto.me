@@ -10,14 +10,7 @@ const data = {
       [`Hi there 👋`, `I'm Jesús Alberto and this is my personal chatbot 🤖`],
       [`I'm glad to see you here 😃`, `Tell me, what would you like to know about me? 🤔`],
     ]
-  },/*
-  askName: {
-    userInput: true,
-    isMine: false,
-    messages: [
-      [`My name is`],
-    ]
-  },*/
+  },
   options: [{
       icon: '🙋🏻‍♂️',
       question: 'Who are you?',
@@ -131,6 +124,6 @@ const data = {
       [`Have a good day 🙋🏻‍♂️`],
     ]
   }
-}
+};
 
 ReactDOM.render(<Chat time={new Date()} me='J' visitor='V' steps={data}/>, document.getElementById('root'));
