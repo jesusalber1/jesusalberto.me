@@ -42,7 +42,7 @@ const data = {
       ],
       answer: [
         [
-          `🎓 Master’s Degree, Telecommunications`,
+          `🎓 Master's Degree, Telecommunications`,
           `⏳ Sep '17 - Present`,
           `🏛 Universidad Carlos III de Madrid`,
           `📍 Madrid 🇪🇸`,
@@ -56,7 +56,7 @@ const data = {
           `📝 Double-degree program`
         ],
         [
-          `🎓 Bachelor’s Degree, Telematics Engineering`,
+          `🎓 Bachelor's Degree, Telematics Engineering`,
           `⏳ Sep '12 - Jun '17`,
           `🏛 Universidad Carlos III de Madrid`,
           `📍 Madrid 🇪🇸`
