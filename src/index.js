@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Chat from './Chat';
 
-const age = (new Date()).getFullYear() - (new Date(1994, 06, 04)).getFullYear();
+const age = (new Date()).getFullYear() - (new Date(1994, 6, 4)).getFullYear();
 
 const data = {
   intro: {
