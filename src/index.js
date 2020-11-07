@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Chat from './Chat';
 
+const age = (new Date()).getFullYear() - (new Date(1994, 06, 04)).getFullYear();
+
 const data = {
   intro: {
     isMine: true, // I send the message (false means that visitor sends it)
@@ -21,7 +23,7 @@ const data = {
         [
           `My name is Jesús Alberto Polo`,
           `👶🏻 Born in Vigo 🇪🇸`,
-          `👦🏻 25 years old`,
+          `👦🏻 ${age} years old`,
           `📍 Currently living in Paris 🇫🇷`,
           `📡 Telecommunications Engineer`
         ]
