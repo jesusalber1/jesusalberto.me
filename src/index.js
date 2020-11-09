@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import moment from 'moment';
 import './index.css';
 import Chat from './Chat';
 
-const age = (new Date()).getFullYear() - (new Date(1994, 6, 4)).getFullYear();
+const age = moment().diff(moment('1994-06-04'), 'years');
 
 const data = {
   intro: {
