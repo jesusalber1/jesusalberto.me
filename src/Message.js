@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Avatar from './Avatar';
 import Line from './Line';
-//import Sound from 'react-sound';
 
 export default class Message extends Component {
   constructor (props) {
@@ -37,7 +36,6 @@ export default class Message extends Component {
       let lines = this.props.text.map((text, index) => {
         return (<Line text={text} index={index} download={this.props.download} />)
       })
-      //const sound = (this.props.isMine) ? <Sound url="notification.m4a" playFromPosition={0} playStatus={Sound.status.PLAYING} /> : undefined
 
       return (
         <article className={`message-container ${(this.props.isMine) ? 'me' : 'visitor'}`}>
@@ -48,6 +46,5 @@ export default class Message extends Component {
         </article>
       )
     }
-
   }
 }
