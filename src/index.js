@@ -39,21 +39,21 @@ const data = {
       answer: [
         [
           `🎓 Master's Degree, Telecommunications`,
-          `⏳ Sep '17 - Present`,
+          `⏳ Sep 2017 - Jan 2020`,
           `🏛 Universidad Carlos III de Madrid`,
           `📍 Madrid 🇪🇸`,
           `📝 Double-degree program`
         ],
         [
           `🎓 Diplôme d'ingénieur, Telecommunications`,
-          `⏳ Sep '16 - Present`,
+          `⏳ Sep 2016 - Jan 2020`,
           `🏛 IMT Atlantique (ex. Télécom Bretagne)`,
           `📍 Rennes 🇫🇷`,
           `📝 Double-degree program`
         ],
         [
           `🎓 Bachelor's Degree, Telematics Engineering`,
-          `⏳ Sep '12 - Jun '17`,
+          `⏳ Sep 2012 - Jun 2017`,
           `🏛 Universidad Carlos III de Madrid`,
           `📍 Madrid 🇪🇸`
         ],
@@ -68,31 +68,31 @@ const data = {
       answer: [
         [
           `👨🏻‍💻 Software Engineer`,
-          `⏳ Oct '19 - Present`,
+          `⏳ Oct 2019 - Present`,
           `🏭 Criteo`,
           `📍 Paris 🇫🇷`
         ],
         [
           `👨🏻‍💻 R&D Intern`,
-          `⏳ Mar - Sep '18`,
+          `⏳ Mar - Sep 2018`,
           `🏭 Orange`,
           `📍 Paris 🇫🇷`
         ],
         [
           `👨🏻‍💻 Full-Stack web developer`,
-          `⏳ Jul - Sep '17 and Feb - Apr '16`,
+          `⏳ Jul - Sep 2017 and Feb - Apr 2016`,
           `🏭 Clover Technologies`,
           `📍 Madrid 🇪🇸`
         ],
         [
           `👨🏻‍💻 Full-Stack web developer`,
-          `⏳ Jul - Oct '15`,
+          `⏳ Jul - Oct 2015`,
           `🏭 pompeiibrand.com`,
           `📍 Madrid 🇪🇸`
         ],
         [
           `👨🏻‍💻 Research Internship`,
-          `⏳ May '14 - Sep '15`,
+          `⏳ May 2014 - Sep 2015`,
           `🏭 Evalues Laboratory (Universidad Carlos III de Madrid)`,
           `📍 Madrid 🇪🇸`
         ],
