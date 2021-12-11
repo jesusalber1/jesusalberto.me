@@ -79,14 +79,14 @@ const data = {
         [
           `👨🏻‍💻 Software Engineer`,
           `🏭 Criteo`,
-          `⏳ Oct 2019 - Apr 2021`,
+          `⏳ Oct 2019 - Apr 2021 | Jul 2021 - Sept 2021`,
           `📍 Paris 🇫🇷`,
         ],
         [`👨🏻‍💻 R&D Intern`, `🏭 Orange`, `⏳ Mar - Sep 2018`, `📍 Paris 🇫🇷`],
         [
           `👨🏻‍💻 Full-Stack web developer`,
           `🏭 Clover Technologies`,
-          `⏳ Jul - Sep 2017 and Feb - Apr 2016`,
+          `⏳ Jul - Sep 2017 | Feb - Apr 2016`,
           `📍 Madrid 🇪🇸`,
         ],
         [
