@@ -124,8 +124,10 @@ const data = {
     isMine: true,
     messages: [
       [`That's all! I hope you enjoyed 😃`, `Thanks for passing by!`],
-      [`You can also visit my personal blog`],
-      [`👉 https://blog.jesusalberto.me`],
+      [
+        `You can also visit my personal blog`,
+        `👉 https://blog.jesusalberto.me`,
+      ],
       [
         `Don't hesitate to contact me on:`,
         `1️⃣ mailto:hello@jesusalberto.me`,
