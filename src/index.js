@@ -65,6 +65,12 @@ const data = {
       messages: [[`Your experience 👨🏻‍💻`]],
       answer: [
         [
+          `👨🏻‍💻 Software Engineer`,
+          `⏳ Nov 2021 - Present`,
+          `🏭 Cloudflare ⛅️`,
+          `📍 Paris 🇫🇷 | Remote`,
+        ],
+        [
           `👨🏻‍💻 Founder in Residence`,
           `⏳ Apr 2021 - Jun 2021`,
           `🏭 Entrepreneur First`,
@@ -95,11 +101,11 @@ const data = {
           `🏭 Evalues Laboratory (Universidad Carlos III de Madrid)`,
           `📍 Madrid 🇪🇸`,
         ],
-        [
+        /*[
           `👨🏻‍💻 Technical Manager (side projects)`,
           `🖥 https://polikracia.com`,
           `🖥 https://focus.jesusalberto.me`,
-        ],
+        ],*/
       ],
     },
     {
@@ -118,6 +124,7 @@ const data = {
     isMine: true,
     messages: [
       [`That's all! I hope you enjoyed 😃`, `Thanks for passing by!`],
+      [`You can visit my blog here 👉 https://blog.jesusalberto.me`],
       [
         `Don't hesitate to contact me on:`,
         `1️⃣ mailto:hello@jesusalberto.me`,
