@@ -39,22 +39,22 @@ const data = {
       answer: [
         [
           `🎓 Master's Degree, Telecommunications`,
-          `⏳ Sep 2017 - Jan 2020`,
           `🏛 Universidad Carlos III de Madrid`,
+          `⏳ Sep 2017 - Jan 2020`,
           `📍 Madrid 🇪🇸`,
           `📝 Double-degree program`,
         ],
         [
           `🎓 Diplôme d'ingénieur, Telecommunications`,
-          `⏳ Sep 2016 - Jan 2020`,
           `🏛 IMT Atlantique (ex. Télécom Bretagne)`,
+          `⏳ Sep 2016 - Jan 2020`,
           `📍 Rennes 🇫🇷`,
           `📝 Double-degree program`,
         ],
         [
           `🎓 Bachelor's Degree, Telematics Engineering`,
-          `⏳ Sep 2012 - Jun 2017`,
           `🏛 Universidad Carlos III de Madrid`,
+          `⏳ Sep 2012 - Jun 2017`,
           `📍 Madrid 🇪🇸`,
         ],
       ],
@@ -66,39 +66,39 @@ const data = {
       answer: [
         [
           `👨🏻‍💻 Software Engineer`,
-          `⏳ Nov 2021 - Present`,
           `🏭 Cloudflare ⛅️`,
+          `⏳ Nov 2021 - Present`,
           `📍 Paris 🇫🇷 | Remote`,
         ],
         [
           `👨🏻‍💻 Founder in Residence`,
-          `⏳ Apr 2021 - Jun 2021`,
           `🏭 Entrepreneur First`,
+          `⏳ Apr 2021 - Jun 2021`,
           `📍 Paris 🇫🇷`,
         ],
         [
           `👨🏻‍💻 Software Engineer`,
-          `⏳ Oct 2019 - Apr 2021`,
           `🏭 Criteo`,
+          `⏳ Oct 2019 - Apr 2021`,
           `📍 Paris 🇫🇷`,
         ],
-        [`👨🏻‍💻 R&D Intern`, `⏳ Mar - Sep 2018`, `🏭 Orange`, `📍 Paris 🇫🇷`],
+        [`👨🏻‍💻 R&D Intern`, `🏭 Orange`, `⏳ Mar - Sep 2018`, `📍 Paris 🇫🇷`],
         [
           `👨🏻‍💻 Full-Stack web developer`,
-          `⏳ Jul - Sep 2017 and Feb - Apr 2016`,
           `🏭 Clover Technologies`,
+          `⏳ Jul - Sep 2017 and Feb - Apr 2016`,
           `📍 Madrid 🇪🇸`,
         ],
         [
           `👨🏻‍💻 Full-Stack web developer`,
-          `⏳ Jul - Oct 2015`,
           `🏭 pompeiibrand.com`,
+          `⏳ Jul - Oct 2015`,
           `📍 Madrid 🇪🇸`,
         ],
         [
           `👨🏻‍💻 Research Internship`,
-          `⏳ May 2014 - Sep 2015`,
           `🏭 Evalues Laboratory (Universidad Carlos III de Madrid)`,
+          `⏳ May 2014 - Sep 2015`,
           `📍 Madrid 🇪🇸`,
         ],
         /*[
