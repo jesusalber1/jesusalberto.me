@@ -83,7 +83,7 @@ const data = {
           `📍 Paris 🇫🇷`,
         ],
         [`👨🏻‍💻 R&D Intern`, `🏭 Orange`, `⏳ Mar - Sep 2018`, `📍 Paris 🇫🇷`],
-        [
+        /*[
           `👨🏻‍💻 Full-Stack web developer`,
           `🏭 Clover Technologies`,
           `⏳ Jul - Sep 2017 | Feb - Apr 2016`,
@@ -101,7 +101,7 @@ const data = {
           `⏳ May 2014 - Sep 2015`,
           `📍 Madrid 🇪🇸`,
         ],
-        /*[
+        [
           `👨🏻‍💻 Technical Manager (side projects)`,
           `🖥 https://polikracia.com`,
           `🖥 https://focus.jesusalberto.me`,
