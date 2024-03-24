@@ -65,10 +65,16 @@ const data = {
       messages: [[`Your experience 👨🏻‍💻`]],
       answer: [
         [
-          `👨🏻‍💻 Software Engineer`,
+          `👨🏻‍💻 Solutions Engineer`,
           `🏭 Cloudflare ⛅️`,
-          `⏳ Nov 2021 - Present`,
-          `📍 Paris 🇫🇷 | Remote`,
+          `⏳ Jan 2024 - Present`,
+          `📍 Paris 🇫🇷 | Hybrid`,
+        ],
+        [
+          `👨🏻‍💻 Systems Engineer`,
+          `🏭 Cloudflare ⛅️`,
+          `⏳ Nov 2021 - Dec 2023`,
+          `📍 Paris 🇫🇷 | Hybrid`,
         ],
         [
           `👨🏻‍💻 Founder in Residence`,
