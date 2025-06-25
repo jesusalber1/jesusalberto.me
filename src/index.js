@@ -65,9 +65,21 @@ const data = {
       messages: [[`Your experience 👨🏻‍💻`]],
       answer: [
         [
+          `👨🏻‍💻 Co-founder`,
+          `🏭 nothiring`,
+          `⏳ Jan 2025 - Present`,
+          `📍 Paris 🇫🇷 & Madrid 🇪🇸 | Hybrid`,
+        ],
+        [
+          `👨🏻‍💻 Software Architect & Solutions Engineer`,
+          `🏭 Kolet`,
+          `⏳ June 2024 - Dec 2024`,
+          `📍 Paris 🇫🇷 | Hybrid`,
+        ],
+        [
           `👨🏻‍💻 Solutions Engineer`,
           `🏭 Cloudflare ⛅️`,
-          `⏳ Jan 2024 - Present`,
+          `⏳ Jan 2024 - June 2024`,
           `📍 Paris 🇫🇷 | Hybrid`,
         ],
         [
